@@ -7,3 +7,11 @@
 # 70-79: C
 # 60-69: D
 # Below 60: F
+grade =int(input("What is your grade?"))
+if grade>=90:
+    print('this number is smaller than 1000')
+if integer<100:
+    print('this number is smaller than 100')
+if integer<10:
+    print('this number is smaller than 10')
+print("Thank you :3")
