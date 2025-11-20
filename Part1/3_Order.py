@@ -26,3 +26,14 @@
 
 # Write your code here:
 
+integer =int(input("Type an integer number"))
+if integer<100:
+    print('this number is smaller than 1000')
+if integer<100:
+    print('this number is smaller than 100')
+if integer<10:
+    print('this number is smaller than 10')
+print("Thank you :3")
+
+   
+
