@@ -29,4 +29,12 @@
 # 4 - 6 = -2
 
 # Write your code here:
-
+integer =int(input("number 1:"))
+integer1=int(input("number 2:"))
+operation =str(input("Operation:"))
+if operation =="add":
+   print(integer + integer1)
+if operation =="multiply":
+   print(integer * integer1)
+if operation =="subtract":
+   print(integer - integer1)
